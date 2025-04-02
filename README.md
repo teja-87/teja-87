@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teja-87
-- 👀 I’m interested in web3 or any other project that challenges
+- 👀 I’m interested in web3 or Ai 
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on anything python and web3 related
 - 📫 How to reach me tejasaiadeveloper@gmail.com
